@@ -25,7 +25,8 @@ public class menu {
             System.out.println("1. Comprovar i Verificar vehicles");
             System.out.println("2. Llistar TOTS els Vehicles");
             System.out.println("3. Llistar Vehicles RETIRATS");
-            System.out.println("0. Finalitzar el programa"); // READ USER INPUT
+            System.out.println("0. Finalitzar el programa"); 
+            // READ USER INPUT
             op = input.nextLine();
 
             //SWITCH CASE
