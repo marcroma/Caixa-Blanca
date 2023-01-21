@@ -12,7 +12,7 @@ public class vehicles {
 
     static String[][] vehiclesALL = { // TOTS ELS VEHICLES
         /*{MATRÍCULA, ANY MATRICULACIÓ, TIPUS CARBURANT}*/
-        {"1234BCD", "2011", "DIESEL"},
+        {"1234BCD", "2004", "DIESEL"},
         {"5678ABC", "2001", "GASOLINA"},
         {"9012GFH", "2017", "DIESEL"},
         {"1035YUI", "1998", "GASOLINA"},
